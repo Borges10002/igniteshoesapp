@@ -3,3 +3,8 @@
 https://documentation.onesignal.com/docs/react-native-expo-sdk-setup
 npx expo install onesignal-expo-plugin@2.0.2
 npm install react-native-onesignal@5.0.5  
+
+## expo-dev-client
+https://docs.expo.dev/versions/latest/sdk/dev-client/
+npx expo install expo-dev-client
+npx expo start --dev-client
